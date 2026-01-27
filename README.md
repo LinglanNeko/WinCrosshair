@@ -1,2 +1,2 @@
 ## WinCrosshair
-一个非常简易的屏幕置顶准星软件，使用过程中可能会有些小问题，见谅。
+A minimalist crosshair overlay application for your screen. You may encounter minor glitches during use, but that's perfectly acceptable – after all, it is minimalist, isn't it?
