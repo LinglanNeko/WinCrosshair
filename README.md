@@ -1,2 +1,4 @@
 ## WinCrosshair
-A minimalist crosshair overlay application for your screen. You may encounter minor glitches during use, but that's perfectly acceptable – after all, it is minimalist, isn't it?
+A lightweight, minimalist crosshair app for Windows.  
+Some minor glitches may occur, but that’s perfectly normal for a lightweight tool.
+
